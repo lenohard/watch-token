@@ -1,6 +1,29 @@
+---
+component: Home
+title: WatchToken | Create a Widget for your ERC20 or BEP20 Token
+meta:
+    - property: twitter:title 
+      content: WatchToken | Create a Widget for your ERC20 or BEP20 Token
+    - property: og:title
+      content: WatchToken | Create a Widget for your ERC20 or BEP20 Token
+    - property: twitter:description
+      content: Create a Widget for your ERC20 or BEP20 Token and share it with your users. Add your Token to DApp browsers or MetaMask both on Ethereum, Binance Smart Chain or Polygon Network.
+    - property: og:description
+      content: Create a Widget for your ERC20 or BEP20 Token and share it with your users. Add your Token to DApp browsers or MetaMask both on Ethereum, Binance Smart Chain or Polygon Network.
+    - property: og:url
+      content: https://vittominacori.github.io/watch-token/
+---
+
 # WatchToken
 
-## DIST ONLY
-This branch contains only the dist files from the [master branch](https://github.com/vittominacori/watch-token/tree/master), DO NOT make any changes directly to this branch, instead make your changes on the `master` branch and then run the deploy script.
+Create a Widget for your ERC20 or BEP20 Token. Add your Token to DApp browsers or MetaMask both on Ethereum, Binance Smart Chain or Polygon Network.
 
-To upload a file to this branch use the `.vuepress/public` folder on the `master` branch.
+Enter your ERC20 or BEP20 Token details, create a Widget and share it with your users.
+
+## Try it
+
+https://vittominacori.github.io/watch-token/
+
+## License
+
+Code released under the [MIT License](./LICENSE).
